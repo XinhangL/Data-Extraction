@@ -1,0 +1,11 @@
+{
+"Name": "Bob",
+"Mobile": 12345678,
+"Married": true,
+"Pets": ["dog", "cat"],
+"Address": {
+"Permanent Address":{"City": "Boston", "State": "MA"}},
+"Favorite Books": {
+"Non-fiction": "Outliers",
+"Fiction": {"Classic Literature": "The Old Man and the Sea"}}
+}
